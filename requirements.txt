@@ -1,0 +1,4 @@
+opencv-python==4.5.5.64
+numpy==1.21.2
+pyautogui==0.9.53
+mss==6.1.0
