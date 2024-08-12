@@ -7,3 +7,5 @@ my Telegram channel: https://t.me/mmmonetki
 
 
 as you start the program, open Blum drop game and enter "1" in the program, soft will start Auto play. If you want pause/unpause press "q"
+
+GUI WILL BE ADDED SOON!!
